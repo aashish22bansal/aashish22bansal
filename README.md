@@ -29,7 +29,7 @@
 
 This doesn't take into account the work done in forks, organizations, or private repos.
 
-![Github stats](https://github-readme-stats.vercel.app/api?username=gwenf&show_icons=true)
+![Github stats](https://github-readme-stats.vercel.app/api?username=aashish22bansal&show_icons=true)
 
 <!--
 <a href="http://aashish22bansal.github.io"><img src="Aashish Bansal Original.jpg" title="Aashish Bansal" alt="Aashish Bansal Original.jpg"></a>
