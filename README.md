@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-## I'm Gwendolyn Faraday
+## I'm Aashish Bansal
 
 ###### ***Information Technology Sophomore*** | ***Data Science Enthusiast***
 
