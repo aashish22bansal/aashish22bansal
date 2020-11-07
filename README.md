@@ -1,7 +1,40 @@
 ### Hi there 👋
+
+
+## I'm Gwendolyn Faraday
+
+###### ***Information Technology Sophomore*** | ***Data Science Enthusiast***
+
+<!--* **YouTube:** [Faraday Academy](https://youtube.com/c/FaradayAcademy)
+* **Twitch:** [faradayacademy](https://twitch.tv/faradayacademy)-->
+* **LinkedIn:** [Aashish Bansal](https://www.linkedin.com/in/aashish-bansal-415163167/)
+* **Facebook:** [Aashish Bansal](https://www.facebook.com/profile.php?id=100005578695799&sk=about)
+* **Twitter:** [Aashish Bansal](https://twitter.com/aashish19830078)
+* **Instagram:** [aashish2208bansal](https://www.instagram.com/aashish2208bansal)
+
+### I am available to help with the following topics:
+
+* Data Science
+* Machine Learning
+* Deep Learning
+* Front-end Development
+* JavaScript
+* Python
+* C++
+* C
+* Java
+* Blockchain and Cryptocurrency
+
+### My GitHub stats
+
+This doesn't take into account the work done in forks, organizations, or private repos.
+
+![Github stats](https://github-readme-stats.vercel.app/api?username=gwenf&show_icons=true)
+
+<!--
 <a href="http://aashish22bansal.github.io"><img src="Aashish Bansal Original.jpg" title="Aashish Bansal" alt="Aashish Bansal Original.jpg"></a>
 
-<!-- [![Aashish Bansal](https://aashish22bansal.github.io)](http://aashish22bansal.github.io) -->
+[![Aashish Bansal](https://aashish22bansal.github.io)](http://aashish22bansal.github.io)
 
 
 # aashish22bansal.github.io
