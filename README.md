@@ -5,8 +5,23 @@
 
 ###### ***Information Technology Sophomore*** | ***Data Science Enthusiast***
 
-<!--* **YouTube:** [Faraday Academy](https://youtube.com/c/FaradayAcademy)
-* **Twitch:** [faradayacademy](https://twitch.tv/faradayacademy)-->
+### About
+
+🔭 I'm passionate about Artificial Intelligence, Deep Learning, Machine Learning, Computer Vision and Natural Language Processing. I have previously worked in the fields of Computer Architecture, Signal and Image Processing and Pattern Recognition. 
+
+💬 My personal mission is to build AI-based solutions that solve a real high-impact problem for people around the world and simplifies day-to-day living.
+
+👯 I am interested in mentoring, coaching and collaborating with people in the field of AI. If you have an idea related to my areas of interest and are interested in getting my thoughts or collaborating, feel free to shoot me an email! 
+
+### Bio
+
+🌱 I am currently pursuing my under-graduate studies in [Information Technology](https://vit.ac.in/schools/school-of-information-technology-and-engineering-for-ug-courses) from [Vellore Institute of Technology](https://www.vit.ac.in/). 
+
+
+
+### Personal Profile
+
+🌎 [aashish22bansal.github.io](https://aashish22bansal.github.io)
 * **LinkedIn:** [Aashish Bansal](https://www.linkedin.com/in/aashish-bansal-415163167/)
 * **Facebook:** [Aashish Bansal](https://www.facebook.com/profile.php?id=100005578695799&sk=about)
 * **Twitter:** [Aashish Bansal](https://twitter.com/aashish19830078)
