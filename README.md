@@ -54,6 +54,7 @@ This doesn't take into account the work done in forks, organizations, or private
 <a href="http://aashish22bansal.github.io"><img src="Aashish Bansal Original.jpg" title="Aashish Bansal" alt="Aashish Bansal Original.jpg"></a>
 
 [![Aashish Bansal](https://aashish22bansal.github.io)](http://aashish22bansal.github.io)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kamyu104&show_icons=true&layout=compact&theme=vue)](https://github.com/anuraghazra/github-readme-stats)
 
 
 # aashish22bansal.github.io
