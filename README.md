@@ -13,10 +13,10 @@
 ### Personal Profile
 
 [![](https://img.icons8.com/color/50/000000/instagram-new--v1.png)](https://instagram.com/aashish2208bansal)
-[![](https://img.icons8.com/material-two-tone/32/000000/facebook.png)](https://www.facebook.com/profile.php?id=100005578695799&sk=about)
-[![](https://img.icons8.com/material-two-tone/32/000000/twitter.png)](https://twitter.com/aashish19830078)
-[![](https://img.icons8.com/material-two-tone/32/000000/linkedin.png)](https://www.linkedin.com/in/aashish-bansal-415163167/)
-[![](https://img.icons8.com/windows/32/000000/hackerrank.png)](https://www.hackerrank.com/aashish22bansal)
+[![](https://img.icons8.com/color/50/000000/facebook.png)](https://www.facebook.com/profile.php?id=100005578695799&sk=about)
+[![](https://img.icons8.com/color/48/000000/twitter--v1.png)](https://twitter.com/aashish19830078)
+[![](https://img.icons8.com/color/48/000000/linkedin.png)](https://www.linkedin.com/in/aashish-bansal-415163167/)
+[![](https://img.icons8.com/cotton/64/000000/code.png)](https://www.hackerrank.com/aashish22bansal)
 [![](https://img.icons8.com/ios/32/000000/resume-website.png)](https://aashish22bansal.github.io)
 
 ### About
