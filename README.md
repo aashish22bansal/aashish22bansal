@@ -5,7 +5,7 @@
 
 ###### ***Information Technology Sophomore*** | ***Data Science Enthusiast***
 
-![visitor badge](https://visitor-badge.glitch.me/badge?page_id=jwenjian.visitor-badge)
+![visitor badge](https://visitor-badge.glitch.me/badge?page_id=aashish22bansal.visitor-badge)
 
 ### About
 
