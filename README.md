@@ -12,7 +12,7 @@
 
 ### Personal Profile
 
-[![](https://img.icons8.com/material-two-tone/32/000000/instagram-new.png)](https://instagram.com/aashish2208bansal)
+[![](https://img.icons8.com/color/50/000000/instagram-new--v1.png)](https://instagram.com/aashish2208bansal)
 [![](https://img.icons8.com/material-two-tone/32/000000/facebook.png)](https://www.facebook.com/profile.php?id=100005578695799&sk=about)
 [![](https://img.icons8.com/material-two-tone/32/000000/twitter.png)](https://twitter.com/aashish19830078)
 [![](https://img.icons8.com/material-two-tone/32/000000/linkedin.png)](https://www.linkedin.com/in/aashish-bansal-415163167/)
