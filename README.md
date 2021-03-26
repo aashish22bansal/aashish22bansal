@@ -9,6 +9,16 @@
 [![Years Badge](https://badges.pufler.dev/years/aashish22bansal)](https://badges.pufler.dev)
 [![Gists Badge](https://badges.pufler.dev/gists/aashish22bansal)](https://badges.pufler.dev)
 
+
+### Personal Profile
+
+[![](https://img.icons8.com/material-two-tone/32/000000/instagram-new.png)](https://instagram.com/aashish2208bansal)
+[![](https://img.icons8.com/material-two-tone/32/000000/facebook.png)](https://www.facebook.com/profile.php?id=100005578695799&sk=about)
+[![](https://img.icons8.com/material-two-tone/32/000000/twitter.png)](https://twitter.com/aashish19830078)
+[![](https://img.icons8.com/material-two-tone/32/000000/linkedin.png)](https://www.linkedin.com/in/aashish-bansal-415163167/)
+[![](https://img.icons8.com/windows/32/000000/hackerrank.png)](https://www.hackerrank.com/aashish22bansal)
+[![](https://img.icons8.com/ios/32/000000/resume-website.png)](https://aashish22bansal.github.io)
+
 ### About
 
 🔭 I'm passionate about Artificial Intelligence, Deep Learning, Machine Learning, Computer Vision and Natural Language Processing. I have previously worked in the fields of Computer Architecture, Signal and Image Processing and Pattern Recognition. 
@@ -20,17 +30,6 @@
 ### Bio
 
 🌱 I am currently pursuing my under-graduate studies in [Information Technology](https://vit.ac.in/schools/school-of-information-technology-and-engineering-for-ug-courses) from [Vellore Institute of Technology](https://www.vit.ac.in/). 
-
-
-
-### Personal Profile
-
-[![](https://img.icons8.com/material-two-tone/32/000000/instagram-new.png)](https://instagram.com/aashish2208bansal)
-[![](https://img.icons8.com/material-two-tone/32/000000/facebook.png)](https://www.facebook.com/profile.php?id=100005578695799&sk=about)
-[![](https://img.icons8.com/material-two-tone/32/000000/twitter.png)](https://twitter.com/aashish19830078)
-[![](https://img.icons8.com/material-two-tone/32/000000/linkedin.png)](https://www.linkedin.com/in/aashish-bansal-415163167/)
-[![](https://img.icons8.com/windows/32/000000/hackerrank.png)](https://www.hackerrank.com/aashish22bansal)
-[![](https://img.icons8.com/ios/32/000000/resume-website.png)](https://aashish22bansal.github.io)
 
 ### I am available to help with the following topics:
 
