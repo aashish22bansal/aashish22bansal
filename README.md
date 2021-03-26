@@ -6,10 +6,9 @@
 ###### ***Information Technology Sophomore*** | ***Data Science Enthusiast***
 
 ![visitor badge](https://visitor-badge.glitch.me/badge?page_id=aashish22bansal.visitor-badge)
-[![Visits Badge](https://badges.pufler.dev/visits/aashish22bansal/git-badges)](https://badges.pufler.dev)
 [![Years Badge](https://badges.pufler.dev/years/aashish22bansal)](https://badges.pufler.dev)
 [![Gists Badge](https://badges.pufler.dev/gists/aashish22bansal)](https://badges.pufler.dev)
-
+[![Updated Badge](https://badges.pufler.dev/updated/aashish22bansal/git-badges)](https://badges.pufler.dev)
 
 ### About
 
