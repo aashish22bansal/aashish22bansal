@@ -33,15 +33,16 @@
 
 ### I am available to help with the following topics:
 
+<code><img src="https://raw.githubusercontent.com/soumyadip007/soumyadip007/master/img/pl/c.png" height="30"></code>
+<code><img src="https://raw.githubusercontent.com/soumyadip007/soumyadip007/master/img/pl/java.png" height="30"></code>
+<code><img src="https://raw.githubusercontent.com/soumyadip007/soumyadip007/master/img/pl/python.png" height="30"></code>
+<code><img src="https://raw.githubusercontent.com/soumyadip007/soumyadip007/master/img/pl/js.png" height="30"></code>
+
 * Data Science
 * Machine Learning
 * Deep Learning
 * Front-end Development
-* JavaScript
-* Python
 * C++
-* C
-* Java
 * Blockchain and Cryptocurrency
 
 ### My GitHub stats
