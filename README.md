@@ -5,6 +5,8 @@
 
 ###### ***Information Technology Sophomore*** | ***Data Science Enthusiast***
 
+![visitor badge](https://visitor-badge.glitch.me/badge?page_id=jwenjian.visitor-badge)
+
 ### About
 
 🔭 I'm passionate about Artificial Intelligence, Deep Learning, Machine Learning, Computer Vision and Natural Language Processing. I have previously worked in the fields of Computer Architecture, Signal and Image Processing and Pattern Recognition. 
