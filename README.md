@@ -19,10 +19,12 @@
 [![Gists Badge](https://badges.pufler.dev/gists/aashish22bansal)](https://badges.pufler.dev)
 
 [![Twitter Badge](https://img.shields.io/badge/-Aashish19830078-blue?style=plastic&logo=Twitter&logoColor=white&link=https://twitter.com/Aashish19830078/)](https://twitter.com/Aashish19830078/)
-[![Facebook Badge](https://img.shields.io/badge/-Aashish Bansal-blue?style=plastic&logo=Facebook&logoColor=white&link=https://www.facebook.com/profile.php?id=100005578695799&sk=about)](https://www.facebook.com/profile.php?id=100005578695799&sk=about)
-[![Linkedin Badge](https://img.shields.io/badge/-aashish-bansal-415163167-blue?style=plastic&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/aashish-bansal-415163167/)](https://www.linkedin.com/in/aashish-bansal-415163167/)
+[![Facebook Badge](https://img.shields.io/badge/-aashish%20bansal-blue?style=plastic&logo=Facebook&logoColor=white&link=https://www.facebook.com/profile.php?id=100005578695799&sk=about)](https://www.facebook.com/profile.php?id=100005578695799&sk=about)
+[![Messenger Badge](https://img.shields.io/badge/-Messenger-0078FF?style=flat&logo=Messenger&logoColor=white)](https://www.facebook.com/profile.php?id=100005578695799&sk=about "Connect on Facebook")
+[![Linkedin Badge](https://img.shields.io/badge/-aashish%20bansal%20415163167-blue?style=plastic&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/aashish-bansal-415163167/)](https://www.linkedin.com/in/aashish-bansal-415163167/)
 [![Gmail Badge](https://img.shields.io/badge/-aashish22bansal@gmail.com-c14438?style=plastic&logo=Gmail&logoColor=white&link=mailto:aashish22bansal@gmail.com)](mailto:aashish22bansal@gmail.com)
 [![Instagram Badge](https://img.shields.io/badge/-aashish2208bansal-purple?style=plastic&logo=instagram&logoColor=white&link=https://instagram.com/aashish2208bansal/)](https://instagram.com/aashish2208bansal)
+[![Telegram Badge](https://img.shields.io/badge/-@aashish22bansal-0088CC?style=flat&logo=Telegram&logoColor=white)](https://t.me/aashish22bansal "Contact on Telegram")
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=aashish22bansal&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
