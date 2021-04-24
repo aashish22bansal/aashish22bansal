@@ -9,6 +9,8 @@
 [![Years Badge](https://badges.pufler.dev/years/aashish22bansal)](https://badges.pufler.dev)
 [![Gists Badge](https://badges.pufler.dev/gists/aashish22bansal)](https://badges.pufler.dev)
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=aashish22bansal&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+
 ### About
 
 🔭 I'm passionate about Artificial Intelligence, Deep Learning, Machine Learning, Computer Vision and Natural Language Processing. I have previously worked in the fields of Computer Architecture, Signal and Image Processing and Pattern Recognition. 
