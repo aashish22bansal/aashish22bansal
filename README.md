@@ -8,7 +8,7 @@
 [![Species](https://img.shields.io/badge/Species-Homo_sapiens-success?style=flat-square&logo=mailchimp&logoColor=white)](https://en.wikipedia.org/wiki/Homo_sapiens)
 [![Status](https://img.shields.io/badge/Status-Stable-success?style=flat-square&logo=gravatar&logoColor=white)](https://en.wikipedia.org/wiki/Life)
 [![My job](https://img.shields.io/badge/My%20job-Student-success?style=flat-square&logo=microgenetics&logoColor=white)](https://vit.ac.in/)
-[![Computer Science is my jam](https://img.shields.io/badge/My%20jam-Information-Technology-critical?style=flat-square&logo=electron&logoColor=white)](https://vit.ac.in/schools/school-of-information-technology-and-engineering-for-ug-courses)
+[![Computer Science is my jam]((https://img.shields.io/badge/My%20jam-science-critical?style=flat-square&logo=electron&logoColor=white))](https://vit.ac.in/schools/school-of-information-technology-and-engineering-for-ug-courses)
 [![Website](https://img.shields.io/badge/Website-aashish22bansal.github.io-informational?style=flat-square&logo=jekyll&logoColor=white)](https://aashish22bansal.github.io)
 [![Google](https://img.shields.io/badge/Google-deleted-active?style=flat-square&logo=google&logoColor=white)](https://github.com/tycrek/degoogle)
 [![OS](https://img.shields.io/badge/OS-Windows-informational?style=flat-square&logo=apple&logoColor=white)](https://en.wikipedia.org/wiki/Windows)
@@ -18,8 +18,12 @@
 ![visitor badge](https://visitor-badge.glitch.me/badge?page_id=aashish22bansal.visitor-badge)
 [![Years Badge](https://badges.pufler.dev/years/aashish22bansal)](https://badges.pufler.dev)
 [![Gists Badge](https://badges.pufler.dev/gists/aashish22bansal)](https://badges.pufler.dev)
-[![Linkedin](https://img.shields.io/badge/linked-in-369?style=flat-square&logo=linkedin&logoColor=white&color=blue)](https://www.linkedin.com/in/aashish-bansal-415163167)
-[![E-Mail](https://img.shields.io/badge/email-reveal-2a8?style=flat-square&logo=gmail&logoColor=white)](https://mailhide.io/e/nU0jg4ib)
+
+[![Twitter Badge](https://img.shields.io/badge/-moshfiqrony-blue?style=plastic&logo=Twitter&logoColor=white&link=https://twitter.com/Aashish19830078/)](https://twitter.com/Aashish19830078/)
+[![Facebook Badge](https://img.shields.io/badge/-moshfiqrony-blue?style=plastic&logo=Facebook&logoColor=white&link=https://www.facebook.com/profile.php?id=100005578695799&sk=about)](https://www.facebook.com/profile.php?id=100005578695799&sk=about)
+[![Linkedin Badge](https://img.shields.io/badge/-moshfiqrony-blue?style=plastic&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/aashish-bansal-415163167/)](https://www.linkedin.com/in/aashish-bansal-415163167/)
+[![Gmail Badge](https://img.shields.io/badge/-aashish22bansal@gmail.com-c14438?style=plastic&logo=Gmail&logoColor=white&link=mailto:aashish22bansal@gmail.com)](mailto:aashish22bansal@gmail.com)
+[![Instagram Badge](https://img.shields.io/badge/-moshfiqrony-purple?style=plastic&logo=instagram&logoColor=white&link=https://instagram.com/aashish2208bansal/)](https://instagram.com/aashish2208bansal)
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=aashish22bansal&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
