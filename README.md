@@ -73,8 +73,8 @@
 </p>
 
 ## 🔥 Streak stats
-
-<!-- GitHub Readme Streak Stats - https://github.com/aashish22bansal/github-readme-streak-stats -->
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=aashish22bansal&hide_border=true)](https://git.io/streak-stats)
+<!-- GitHub Readme Streak Stats - https://github.com/aashish22bansal/github-readme-streak-stats >
 <p align="center">
   <a href="https://github.com/aashish22bansal/github-readme-streak-stats">
     <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="aashish22bansal's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=aashish22bansal&theme=monokai-metallian&hide_border=true"/>
@@ -82,7 +82,7 @@
   <p align="center">🔥 Get streak stats for your profile at <a href="https://git.io/streak-stats">git.io/streak-stats</a></p>
 </p>
 
-<!-- Some badges are from https://github.com/Ileriayo/markdown-badges -->
+<Some badges are from https://github.com/Ileriayo/markdown-badges -->
 
 ## 🛠️ My favorite tools
 
