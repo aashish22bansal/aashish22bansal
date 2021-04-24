@@ -157,8 +157,6 @@
 ## 📊 Github stats
 [![Aashish Bansal's GitHub stats](https://github-readme-stats.vercel.app/api?username=aashish22bansal&count_private=true&show_icons=true)](https://github.com/aashish22bansal/github-readme-stats)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=aashish22bansal&repo=github-readme-stats)](https://github.com/aashish22bansal/github-readme-stats)
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aashish22bansal&langs_count=8)](https://github.com/aashish22bansal/github-readme-stats)
 
 [![Aashish Bansal's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=willianrod)](https://github.com/aashish22bansal/github-readme-stats)
