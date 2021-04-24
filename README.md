@@ -8,6 +8,8 @@
 ![visitor badge](https://visitor-badge.glitch.me/badge?page_id=aashish22bansal.visitor-badge)
 [![Years Badge](https://badges.pufler.dev/years/aashish22bansal)](https://badges.pufler.dev)
 [![Gists Badge](https://badges.pufler.dev/gists/aashish22bansal)](https://badges.pufler.dev)
+[![Linkedin](https://img.shields.io/badge/linked-in-369?style=flat-square&logo=linkedin&logoColor=white&color=blue)](https://www.linkedin.com/in/aashish-bansal-415163167)
+[![E-Mail](https://img.shields.io/badge/email-reveal-2a8?style=flat-square&logo=gmail&logoColor=white)](https://mailhide.io/e/nU0jg4ib)
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=aashish22bansal&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
