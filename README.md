@@ -3,7 +3,7 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h3>
 
-###### ***Information Technology Pre-final*** | ***Data Science Enthusiast*** | ***Web Developer***
+###### ***Information Technology Pre-final*** | ***Trained in Applied Machine Learning and Data Science*** | ***Data Science Enthusiast*** | ***Web Developer***
 
 [![Species](https://img.shields.io/badge/Species-Homo_sapiens-success?style=flat-square&logo=mailchimp&logoColor=white)](https://en.wikipedia.org/wiki/Homo_sapiens)
 [![Status](https://img.shields.io/badge/Status-Stable-success?style=flat-square&logo=gravatar&logoColor=white)](https://en.wikipedia.org/wiki/Life)
