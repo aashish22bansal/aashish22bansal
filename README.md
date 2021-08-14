@@ -71,6 +71,7 @@
 6. Detection of Parkinson's Disease
 7. Fake News Detection
 8. Prediction of Marks using Data Science
+9. COVID-19 Live Stats Responsive Website with a Chat Application
 
 <!-- Repo info cards - https://github.com/anuraghazra/github-readme-stats -->
 <!-- Small repo cards (fork) - https://github.com/aashish22bansal/github-readme-stats -->
