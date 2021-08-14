@@ -63,6 +63,15 @@
 
 ## 📘 My top open source projects
 
+1. Tic Tac Toe in C++
+2. Hotel Management System using Binary File System in C++
+3. Sentiment Analysis of Twitter using BiLSTM
+4. Apple Store Management System with a Normalised Database
+5. E-Commerce Website integrate with Database
+6. Detection of Parkinson's Disease
+7. Fake News Detection
+8. Prediction of Marks using Data Science
+
 <!-- Repo info cards - https://github.com/anuraghazra/github-readme-stats -->
 <!-- Small repo cards (fork) - https://github.com/aashish22bansal/github-readme-stats -->
 <!--p align="left">
