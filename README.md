@@ -18,14 +18,6 @@
 [![Years Badge](https://badges.pufler.dev/years/aashish22bansal)](https://badges.pufler.dev)
 [![Gists Badge](https://badges.pufler.dev/gists/aashish22bansal)](https://badges.pufler.dev)
 
-[![Twitter Badge](https://img.shields.io/badge/-Aashish19830078-blue?style=plastic&logo=Twitter&logoColor=white&link=https://twitter.com/Aashish19830078/)](https://twitter.com/Aashish19830078/)
-[![Facebook Badge](https://img.shields.io/badge/-Aashish%20Bansal-blue?style=plastic&logo=Facebook&logoColor=white&link=https://www.facebook.com/profile.php?id=100005578695799&sk=about)](https://www.facebook.com/profile.php?id=100005578695799&sk=about)
-[![Messenger Badge](https://img.shields.io/badge/-Messenger-0078FF?style=flat&logo=Messenger&logoColor=white)](https://www.facebook.com/profile.php?id=100005578695799&sk=about "Connect on Facebook")
-[![Linkedin Badge](https://img.shields.io/badge/-Aashish%20Bansal%20-blue?style=plastic&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/aashish-bansal-415163167/)](https://www.linkedin.com/in/aashish-bansal-415163167/)
-[![Gmail Badge](https://img.shields.io/badge/-aashish22bansal@gmail.com-c14438?style=plastic&logo=Gmail&logoColor=white&link=mailto:aashish22bansal@gmail.com)](mailto:aashish22bansal@gmail.com)
-[![Instagram Badge](https://img.shields.io/badge/-aashish2208bansal-purple?style=plastic&logo=instagram&logoColor=white&link=https://instagram.com/aashish2208bansal/)](https://instagram.com/aashish2208bansal)
-[![Telegram Badge](https://img.shields.io/badge/-@aashish22bansal-0088CC?style=flat&logo=Telegram&logoColor=white)](https://t.me/aashish22bansal "Contact on Telegram")
-
 [![trophy](https://github-profile-trophy.vercel.app/?username=aashish22bansal&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 ### About
@@ -95,16 +87,39 @@
 
 ## 🙋‍♂️ Connect with me
 
+[![Twitter Badge](https://img.shields.io/badge/-Aashish19830078-blue?style=plastic&logo=Twitter&logoColor=white&link=https://twitter.com/Aashish19830078/)](https://twitter.com/Aashish19830078/)
+[![Facebook Badge](https://img.shields.io/badge/-Aashish%20Bansal-blue?style=plastic&logo=Facebook&logoColor=white&link=https://www.facebook.com/profile.php?id=100005578695799&sk=about)](https://www.facebook.com/profile.php?id=100005578695799&sk=about)
+[![Messenger Badge](https://img.shields.io/badge/-Messenger-0078FF?style=flat&logo=Messenger&logoColor=white)](https://www.facebook.com/profile.php?id=100005578695799&sk=about "Connect on Facebook")
+[![Linkedin Badge](https://img.shields.io/badge/-Aashish%20Bansal%20-blue?style=plastic&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/aashish-bansal-415163167/)](https://www.linkedin.com/in/aashish-bansal-415163167/)
+[![Gmail Badge](https://img.shields.io/badge/-aashish22bansal@gmail.com-c14438?style=plastic&logo=Gmail&logoColor=white&link=mailto:aashish22bansal@gmail.com)](mailto:aashish22bansal@gmail.com)
+[![Instagram Badge](https://img.shields.io/badge/-aashish2208bansal-purple?style=plastic&logo=instagram&logoColor=white&link=https://instagram.com/aashish2208bansal/)](https://instagram.com/aashish2208bansal)
+[![Telegram Badge](https://img.shields.io/badge/-@aashish22bansal-0088CC?style=flat&logo=Telegram&logoColor=white)](https://t.me/aashish22bansal "Contact on Telegram")
+
+
 <!-- Badges template - https://github.com/badges/shields -->
-<p align="center">
-  <!--a href="https://www.youtube.com/c/DevProTips"><img alt="Youtube" title="Youtube" src="https://img.shields.io/badge/-YouTube-red?style=for-the-badge&logo=youtube&logoColor=white"/></a-->
-  <a href="https://twitter.com/Aashish19830078"><img alt="Twitter" title="Twitter" src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
-  <a href="https://discord.gg/Aashish Bansal#0148" alt="Dev Pro Tips Discussion & Support Server"><img src="https://img.shields.io/badge/-Discord-7289DA?style=for-the-badge&logoColor=white&logo=discord"/></a>
-  <a href="https://dev.to/aashish22bansal"><img alt="Dev.to" title="aashish22bansal Dev.to" src="https://img.shields.io/badge/DEV.TO-3835D3.svg?&style=for-the-badge&logo=dev.to&logoColor=white"></a>
-  <!--a href="https://instagram.com/aashish2208bansal"><img alt="Instagram" title="aashish22bansal " src="https://img.shields.io/badge/DEV.TO-3835D3.svg?&style=for-the-badge&logo=dev.to&logoColor=white"></a-->
-  <!--a href="https://ko-fi.com/jlawrence"><img alt="Ko-fi" title="Buy me a coffee" src="https://img.shields.io/badge/-Support-FF5E5B?style=for-the-badge&logo=ko-fi&logoColor=white"/></a>
-  <a href="http://eyl327.mywebcommunity.org/promos/"><img alt="Free Stuff" title="Free gifts for you" src="https://img.shields.io/badge/-free%20promos-D1A104?style=for-the-badge&logo=coveralls&logoColor=white"/></a-->
-</p>
+<!--p align="center">
+  <a href="https://www.youtube.com/c/DevProTips">
+    <img alt="Youtube" title="Youtube" src="https://img.shields.io/badge/-YouTube-red?style=for-the-badge&logo=youtube&logoColor=white"/>
+  </a>
+  <a href="https://twitter.com/Aashish19830078">
+    <img alt="Twitter" title="Twitter" src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/>
+  </a>
+  <a href="https://discord.gg/Aashish Bansal#0148" alt="Dev Pro Tips Discussion & Support Server">
+    <img src="https://img.shields.io/badge/-Discord-7289DA?style=for-the-badge&logoColor=white&logo=discord"/>
+  </a>
+  <a href="https://dev.to/aashish22bansal">
+    <img alt="Dev.to" title="aashish22bansal Dev.to" src="https://img.shields.io/badge/DEV.TO-3835D3.svg?&style=for-the-badge&logo=dev.to&logoColor=white">
+  </a>
+  <a href="https://instagram.com/aashish2208bansal">
+    <img alt="Instagram" title="aashish22bansal " src="https://img.shields.io/badge/DEV.TO-3835D3.svg?&style=for-the-badge&logo=dev.to&logoColor=white">
+  </a>
+  <a href="https://ko-fi.com/jlawrence">
+    <img alt="Ko-fi" title="Buy me a coffee" src="https://img.shields.io/badge/-Support-FF5E5B?style=for-the-badge&logo=ko-fi&logoColor=white"/>
+  </a>
+  <a href="http://eyl327.mywebcommunity.org/promos/">
+    <img alt="Free Stuff" title="Free gifts for you" src="https://img.shields.io/badge/-free%20promos-D1A104?style=for-the-badge&logo=coveralls&logoColor=white"/>
+  </a>
+</p-->
 
 ## 🔥 Streak stats
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=aashish22bansal&hide_border=true)](https://git.io/streak-stats)
