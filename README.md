@@ -84,9 +84,9 @@
   <a href="https://github.com/aashish22bansal/unicode-formatter"><img width="282" src="https://aashish22bansal-github-readme-stats.vercel.app/api/pin/?username=aashish22bansal&repo=unicode-formatter&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="unicode-formatter"></a>
 </p-->
 
-<p align="left">
+<!--p align="left">
   <a href="https://github.com/aashish22bansal?tab=repositories"><img alt="All Repositories" title="All Repositories" src="https://img.shields.io/badge/-All%20Repos-2962FF?style=for-the-badge&logo=koding&logoColor=white"/></a>
-</p>
+</p-->
 
 ## 🙋‍♂️ Connect with me
 
