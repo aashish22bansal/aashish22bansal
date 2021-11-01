@@ -60,17 +60,25 @@
   </a>
 </p-->
 
-## 📘 My top open source projects
+## 📘 My open source projects
 
-1. Tic Tac Toe in C++
-2. Hotel Management System using Binary File System in C++
-3. Sentiment Analysis of Twitter using BiLSTM
-4. Apple Store Management System with a Normalised Database
-5. E-Commerce Website integrate with Database
-6. Detection of Parkinson's Disease
-7. Fake News Detection
-8. Prediction of Marks using Data Science
-9. COVID-19 Live Stats Responsive Website with a Chat Application
+1. House Price Prediction
+2. Basketball Court Counter
+3. Android Currency Converted
+4. Andrid Scientific Calculator
+5. Basic ChatBot
+6. Best Ads Predictor
+7. Prediction of Marks of a Student
+8. Fake News Detection
+9. Detection of Parkinson's Disease
+10. Network Intrusion Detection System
+11. Skin Cancer Detection System
+12. E-Commerce Website
+13. Apple Store Management System
+14. COVID-19 Live Stats Responsive Website with Chat Application
+15. Sentiment Analysis of Tweets
+16. Tic Tac Toe using C++
+17. Hotel Management System using C++
 
 <!-- Repo info cards - https://github.com/anuraghazra/github-readme-stats -->
 <!-- Small repo cards (fork) - https://github.com/aashish22bansal/github-readme-stats -->
