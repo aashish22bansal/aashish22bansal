@@ -18,7 +18,6 @@
 [![Years Badge](https://badges.pufler.dev/years/aashish22bansal)](https://badges.pufler.dev)
 [![Gists Badge](https://badges.pufler.dev/gists/aashish22bansal)](https://badges.pufler.dev)
 [![Repos Badge](https://badges.pufler.dev/repos/aashish22bansal)](https://badges.pufler.dev)
-[![Updated Badge](https://badges.pufler.dev/updated/aashish22bansal/git-badges)](https://badges.pufler.dev)
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=aashish22bansal)](https://github.com/ryo-ma/github-profile-trophy)
 
