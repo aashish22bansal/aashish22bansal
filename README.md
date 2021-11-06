@@ -5,15 +5,14 @@
 
 ###### ***Information Technology Pre-final*** | ***Trained in Applied Machine Learning and Data Science*** | ***Data Science Enthusiast*** | ***Programmer*** | ***Web Developer*** | ***eLearner***
 
-[![Species](https://img.shields.io/badge/Species-Homo_sapiens-success?style=flat-square&logo=mailchimp&logoColor=white)](https://en.wikipedia.org/wiki/Homo_sapiens)
-[![Status](https://img.shields.io/badge/Status-Stable-success?style=flat-square&logo=gravatar&logoColor=white)](https://en.wikipedia.org/wiki/Life)
+<!-- [![Species](https://img.shields.io/badge/Species-Homo_sapiens-success?style=flat-square&logo=mailchimp&logoColor=white)](https://en.wikipedia.org/wiki/Homo_sapiens) -->
+<!-- [![Status](https://img.shields.io/badge/Status-Stable-success?style=flat-square&logo=gravatar&logoColor=white)](https://en.wikipedia.org/wiki/Life) -->
 [![My job](https://img.shields.io/badge/My%20job-Student-success?style=flat-square&logo=microgenetics&logoColor=white)](https://vit.ac.in/)
 [![Website](https://img.shields.io/badge/Website-aashish22bansal.github.io-informational?style=flat-square&logo=jekyll&logoColor=white)](https://aashish22bansal.github.io)
-[![Google](https://img.shields.io/badge/Google-deleted-active?style=flat-square&logo=google&logoColor=white)](https://github.com/tycrek/degoogle)
-[![OS](https://img.shields.io/badge/OS-Windows-informational?style=flat-square&logo=apple&logoColor=white)](https://en.wikipedia.org/wiki/Windows)
-[![OS](https://img.shields.io/badge/OS-Linux-informational?style=flat-square&logo=linux&logoColor=white)](https://en.wikipedia.org/wiki/Linux)
-[![Editor](https://img.shields.io/badge/Editor-VSCode-blue?style=flat-square&logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com/)
-
+<!-- [![Google](https://img.shields.io/badge/Google-deleted-active?style=flat-square&logo=google&logoColor=white)](https://github.com/tycrek/degoogle) -->
+<!-- [![OS](https://img.shields.io/badge/OS-Windows-informational?style=flat-square&logo=apple&logoColor=white)](https://en.wikipedia.org/wiki/Windows) -->
+<!-- [![OS](https://img.shields.io/badge/OS-Linux-informational?style=flat-square&logo=linux&logoColor=white)](https://en.wikipedia.org/wiki/Linux) -->
+<!-- [![Editor](https://img.shields.io/badge/Editor-VSCode-blue?style=flat-square&logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com/) -->
 <!-- ![visitor badge](https://visitor-badge.glitch.me/badge?page_id=aashish22bansal.visitor-badge) -->
 [![Years Badge](https://badges.pufler.dev/years/aashish22bansal)](https://badges.pufler.dev)
 [![Gists Badge](https://badges.pufler.dev/gists/aashish22bansal)](https://badges.pufler.dev)
