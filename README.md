@@ -96,7 +96,7 @@
 
 ## 🙋‍♂️ Connect with me
 
-[![Twitter Badge](https://img.shields.io/badge/-Aashish19830078-blue?style=plastic&logo=Twitter&logoColor=white&link=https://twitter.com/Aashish19830078/)](https://twitter.com/Aashish19830078/)
+[![Twitter Badge](https://img.shields.io/badge/-aashish22bansal-blue?style=plastic&logo=Twitter&logoColor=white&link=https://twitter.com/aashish22bansal/)](https://twitter.com/aashish22bansal/)
 [![Facebook Badge](https://img.shields.io/badge/-Aashish%20Bansal-blue?style=plastic&logo=Facebook&logoColor=white&link=https://www.facebook.com/profile.php?id=100005578695799&sk=about)](https://www.facebook.com/profile.php?id=100005578695799&sk=about)
 [![Messenger Badge](https://img.shields.io/badge/-Messenger-0078FF?style=flat&logo=Messenger&logoColor=white)](https://www.facebook.com/profile.php?id=100005578695799&sk=about "Connect on Facebook")
 [![Linkedin Badge](https://img.shields.io/badge/-Aashish%20Bansal%20-blue?style=plastic&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/aashish-bansal-415163167/)](https://www.linkedin.com/in/aashish-bansal-415163167/)
