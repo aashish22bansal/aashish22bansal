@@ -99,7 +99,7 @@
 [![Twitter Badge](https://img.shields.io/badge/-aashish22bansal-blue?style=plastic&logo=Twitter&logoColor=white&link=https://twitter.com/aashish22bansal/)](https://twitter.com/aashish22bansal/)
 [![Facebook Badge](https://img.shields.io/badge/-Aashish%20Bansal-blue?style=plastic&logo=Facebook&logoColor=white&link=https://www.facebook.com/profile.php?id=100005578695799&sk=about)](https://www.facebook.com/profile.php?id=100005578695799&sk=about)
 [![Messenger Badge](https://img.shields.io/badge/-Messenger-0078FF?style=flat&logo=Messenger&logoColor=white)](https://www.facebook.com/profile.php?id=100005578695799&sk=about "Connect on Facebook")
-[![Linkedin Badge](https://img.shields.io/badge/-Aashish%20Bansal%20-blue?style=plastic&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/aashish-bansal-415163167/)](https://www.linkedin.com/in/aashish-bansal-415163167/)
+[![Linkedin Badge](https://img.shields.io/badge/-Aashish%20Bansal%20-blue?style=plastic&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/aashish22bansal/)](https://www.linkedin.com/in/aashish22bansal/)
 [![Gmail Badge](https://img.shields.io/badge/-aashish22bansal@gmail.com-c14438?style=plastic&logo=Gmail&logoColor=white&link=mailto:aashish22bansal@gmail.com)](mailto:aashish22bansal@gmail.com)
 [![Instagram Badge](https://img.shields.io/badge/-aashish2208bansal-purple?style=plastic&logo=instagram&logoColor=white&link=https://instagram.com/aashish2208bansal/)](https://instagram.com/aashish2208bansal)
 [![Telegram Badge](https://img.shields.io/badge/-@aashish22bansal-0088CC?style=flat&logo=Telegram&logoColor=white)](https://t.me/aashish22bansal "Contact on Telegram")
