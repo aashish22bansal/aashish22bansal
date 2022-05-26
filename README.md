@@ -48,8 +48,8 @@
   <a href="https://www.youtube.com/c/DevProTips">
     <img alt="youtube views" title="YouTube views" src="https://freshidea.com/jonah/youtube-api/view-count-badge-temp.php?label=Views&color=e1ad0e&labelColor=c79600&style=for-the-badge"/>
   </a>
-  <a href="https://twitter.com/Aashish19830078">
-    <img alt="followers" title="Follow me on Twitter" src="https://img.shields.io/twitter/follow/Aashish19830078?color=55960c&labelColor=488207&label=Follow&logo=twitter&logoColor=white&style=for-the-badge"/>
+  <a href="https://twitter.com/aashish22bansal">
+    <img alt="followers" title="Follow me on Twitter" src="https://img.shields.io/twitter/follow/aashish22bansal?color=55960c&labelColor=488207&label=Follow&logo=twitter&logoColor=white&style=for-the-badge"/>
   </a>
   <a href="https://github.com/aashish22bansal">
     <img alt="followers" title="Follow me on Github" src="https://img.shields.io/github/followers/aashish22bansal?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Follow"/>
