@@ -59,6 +59,11 @@
   </a>
 </p-->
 
+## Publications
+
+1. Skin Cancer Detection using Transfer Learning and Ensemble Modelling
+2. [In Progress] Network Intrusion Detection System using Machine learning and Deep Learning Techniques
+
 ## 📘 My open source projects
 
 1. House Price Prediction
