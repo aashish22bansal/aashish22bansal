@@ -3,7 +3,7 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h3>
 
-###### ***Information Technology Final Year Student*** | ***Trained in Applied Machine Learning and Data Science*** | ***Data Science Enthusiast*** | ***Programmer*** | ***Web Developer*** | ***eLearner***
+###### ***ML Engineer*** | ***Software Developer*** | ***Information Technology Final Year Student*** | ***Trained in Applied Machine Learning and Data Science*** | ***Data Science Enthusiast*** | ***Programmer*** | ***Web Developer*** | ***eLearner***
 
 <!-- [![Species](https://img.shields.io/badge/Species-Homo_sapiens-success?style=flat-square&logo=mailchimp&logoColor=white)](https://en.wikipedia.org/wiki/Homo_sapiens) -->
 <!-- [![Status](https://img.shields.io/badge/Status-Stable-success?style=flat-square&logo=gravatar&logoColor=white)](https://en.wikipedia.org/wiki/Life) -->
