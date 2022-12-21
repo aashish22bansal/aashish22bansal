@@ -62,7 +62,8 @@
 ## Publications
 
 1. Skin Cancer Detection using Transfer Learning and Ensemble Modelling
-2. [In Progress] Network Intrusion Detection System using Machine learning and Deep Learning Techniques
+2. Lung Nodule Detection based on Machine Learning and Deep Learning - An Analysis
+3. [In Progress] Network Intrusion Detection System using Machine learning and Deep Learning Techniques
 
 ## 📘 My open source projects
 
