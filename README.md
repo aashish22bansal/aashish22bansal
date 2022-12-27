@@ -232,4 +232,4 @@
 </details-->
 
 <!-- https://github.com/ashutosh00710/github-readme-activity-graph -->
-<a href="https://github.com/aashish22bansal/github-readme-activity-graph"><img alt="aashish22bansal's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=aashish22bansal&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
+<!-- <a href="https://github.com/aashish22bansal/github-readme-activity-graph"><img alt="aashish22bansal's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=aashish22bansal&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a> -->
