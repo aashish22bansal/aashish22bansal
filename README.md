@@ -7,7 +7,7 @@
 
 <!-- [![Species](https://img.shields.io/badge/Species-Homo_sapiens-success?style=flat-square&logo=mailchimp&logoColor=white)](https://en.wikipedia.org/wiki/Homo_sapiens) -->
 <!-- [![Status](https://img.shields.io/badge/Status-Stable-success?style=flat-square&logo=gravatar&logoColor=white)](https://en.wikipedia.org/wiki/Life) -->
-[![My job](https://img.shields.io/badge/My%20job-Student-success?style=flat-square&logo=microgenetics&logoColor=white)](https://vit.ac.in/)
+<!-- [![My job](https://img.shields.io/badge/My%20job-Student-success?style=flat-square&logo=microgenetics&logoColor=white)](https://vit.ac.in/) -->
 [![Website](https://img.shields.io/badge/Website-aashish22bansal.github.io-informational?style=flat-square&logo=jekyll&logoColor=white)](https://aashish22bansal.github.io)
 <!-- [![Google](https://img.shields.io/badge/Google-deleted-active?style=flat-square&logo=google&logoColor=white)](https://github.com/tycrek/degoogle) -->
 <!-- [![OS](https://img.shields.io/badge/OS-Windows-informational?style=flat-square&logo=apple&logoColor=white)](https://en.wikipedia.org/wiki/Windows) -->
