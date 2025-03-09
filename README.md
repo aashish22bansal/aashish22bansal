@@ -572,5 +572,5 @@ Stats by [aashish22bansal/profile-summary-for-github][]
 
 ## GitHub Profile Trophy 🏆
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=aashish22bansal&row=1&margin-w=40)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=aashish22bansal&row=1&margin-w=40)](https://github.com/aashish22bansal/github-profile-trophy)
 
